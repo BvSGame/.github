@@ -1,5 +1,8 @@
 # 💣 Bombs vs. Sleepwalkers
 
+> [!NOTE]
+> **Codeberg** is the primary place of development. If you want your contributions to be addressed more operatively, please create new issues and pull requests on [Codeberg][codeberg].
+
 ## Links
 
 | [Script drafts][script-drafts] |
